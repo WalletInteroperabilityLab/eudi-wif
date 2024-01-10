@@ -20,7 +20,7 @@ SSI is also significant in the field of data exchange and data governance. This 
 The main roles in an SSI ecosystem are are listed as follow:
 
  - Issuers: parties who can issue digital credentials about a person;
- - verifiers: parties who request Holders' digital credentials for authentication and authorization purposes;
+ - Verifiers: parties who request Holders' digital credentials for authentication and authorization purposes;
  - Holders: individuals who own a Wallet and have control over the digital credentials they can request, acquire, store, and present to verifiers;
  - Verifiable Data Registries: Authorities that publish certificates, attestations, metadata, and schemes needed for allowing the trust establishment between the parties.
 

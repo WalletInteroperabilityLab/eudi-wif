@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "The Italian EUDI Wallet implementation profile"
-settings_copyright_copyleft = 'Dipartimento per la Trasformazione Digitale'
-settings_editor_name = 'Dipartimento per la Trasformazione Digitale'
+settings_project_name = "The EUDI Wallet implementation profile"
+settings_copyright_copyleft = 'Wallet Interoperability Lab'
+settings_editor_name = 'Wallet Interoperability Lab'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'eidas-it-wallet-docs'
-settings_file_name = 'eidas-it-wallet-docs'
+settings_basename = 'eudi-wif'
+settings_file_name = 'eudi-wif'
 
 # -- No need to change below here
 
