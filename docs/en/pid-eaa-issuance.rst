@@ -15,7 +15,7 @@ The relevant entities and interfaces involved in the issuance flow are:
 
         - OpenID4VCI Component: based on the "OpenID for Verifiable Credential Issuance" specification  ` [OIDC4VCI. Draft 13] <https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html>`_ to release the PID.
         - National eID Relying Party: The component to authenticate the User with the national Digital Identity Providers, based on OpenID Connect Core 1.0 or SAML2.
-        - National Identity Provider: It represents preexisting identity systems based on SAML2 or OpenID Connect Core 1.0, already in production in each Member State (eg: the Italian SPID and CIE id schemes notified eIDAS with *LoA* **High**, see `SPID/CIE OpenID Connect Specifications <https://italia.github.io/spid-cie-oidc-docs/en/>`_).
+        - National Identity Provider: It represents preexisting identity systems based on SAML2 or OpenID Connect Core 1.0, already in production in each Member State.
 
     - *(Q)EAA Provider*: It represents the Issuer of (Q)EAAs. It is composed of:
 
@@ -960,7 +960,7 @@ Below is a non-normative example of an Entity Configuration containing an `openi
                 "cryptographic_suites_supported": ["RS256", "RS512", "ES256", "ES512"],
                 "proof_types": ["jwt"],
                 "display": [{
-                    "name": "PID Provider Italiano di esempio",
+                    "name": "example PID Provider",
                     "locale": "it-IT",
                     "logo": {
                       "url": "https://pid-provider example.org/public/logo.svg",
@@ -970,7 +970,7 @@ Below is a non-normative example of an Entity Configuration containing an `openi
                     "text_color": "#FFFFFF"
                   },
                   {
-                    "name": "Example Italian PID Provider",
+                    "name": "Example PID Provider",
                     "locale": "en-US",
                     "logo": {
                       "url": "https://pid-provider.example.org/public/logo.svg",

@@ -7,7 +7,7 @@ PID/(Q)EAA Data Model
 +++++++++++++++++++++
 
 The Person Identification Data (PID) is issued by the PID Provider according to national laws. The main scope of the PID is allowing natural persons to be authenticated for the access to a service or to a protected resource. 
-The User attributes provided within the Italian PID are the ones listed below:
+The User attributes provided within the PID are the ones listed below:
 
     - Current Family Name
     - Current First Name
@@ -16,7 +16,7 @@ The User attributes provided within the Italian PID are the ones listed below:
     - Unique Identifier
     - Taxpayer identification number
 
-The Italian digital Credentials, like the PID and the (Q)EAA, contains additional claims and according to the `OpenID Identity Assurance Profile [OIDC.IDA] <https://openid.net/specs/openid-connect-4-identity-assurance-1_0-13.html>`_, these carries the national trust framework and the identity proofing procedures underlying the issuance. In particular, these carries some relevant information about the Authentic Sources of the subject's attributes. 
+The digital Credentials, like the PID and the (Q)EAA, contains additional claims and according to the `OpenID Identity Assurance Profile [OIDC.IDA] <https://openid.net/specs/openid-connect-4-identity-assurance-1_0-13.html>`_, these carries the national trust framework and the identity proofing procedures underlying the issuance. In particular, these carries some relevant information about the Authentic Sources of the subject's attributes. 
 
 The (Q)EAAs are issued by (Q)EAA Issuers to a Wallet Instance and MUST be provided in SD-JWT-VC or MDOC-CBOR data format. 
 

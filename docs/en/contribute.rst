@@ -13,7 +13,7 @@ Below are several methods available for contributing to this project:
 
 - **GitHub issues**. By opening an issue, you can seek clarification, propose enhancements, or report editorial typos. If you are working on an issue, we encourage you to open a draft pull request and link it.
 - **Pull requests**. Pull requests represent active contributions to the project, typically, but not always following issue-based discussions. Once a pull request is initiated, it facilitates discussion and review of the proposed changes before they are merged into the main branch (`versione-corrente`).
-- **Developers Italia Slack channel**. Slack is a messaging application designed for businesses, connecting people to the information they need. *Developers Italia* is an open community based on contributions and participation from public administrations, developers, technicians, students, and citizens. *Developers Italia* has initiated a Slack channel that [everyone can join for free](https://slack.developers.italia.it/), where you can learn about all their activities and partake in discussions.
+- **Developers Italia Slack channel**. Slack is a messaging application designed for businesses, connecting people to the information they need. *Developers Italia* is an open community based on contributions and participation from public administrations, developers, technicians, students, and citizens. ... , where you can learn about all their activities and partake in discussions.
 
 
 Acknowledgements
